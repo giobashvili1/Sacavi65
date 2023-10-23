@@ -1,0 +1,13 @@
+div{
+    width: 230px;
+height: 297px;
+border: 2px solid #F40000;
+background: #FFF;
+overflow: scroll;
+float: left;
+}
+img{
+    width: 560px;
+height: 646.528px;
+float: right;
+}
